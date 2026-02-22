@@ -1,4 +1,4 @@
-<iframe src="https://github.com/sponsors/Mothilal-M/card" title="Sponsor Mothilal-M" height="225" width="600" style="border: 0;"></iframe>
+<!-- <iframe src="https://github.com/sponsors/Mothilal-M/card" title="Sponsor Mothilal-M" height="225" width="600" style="border: 0;"></iframe> -->
 <a href="https://mothilal.xyz">
  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Mothilal%20M&fontSize=80&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20%40%2010XScale.ai&descAlignY=55&descSize=25" width="100%">    
 </a>
