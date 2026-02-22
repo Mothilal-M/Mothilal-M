@@ -37,7 +37,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: Mothilal-hire10x
+          github_user_name: Mothilal-M
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#e8df7a&color_dots=
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#e8df7a&color_dots=#444444,#9b0054,#c9006c,#ff79c6,#ea4d95

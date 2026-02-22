@@ -1,4 +1,4 @@
-# Repository Summary: Mothilal-hire10x/Mothilal-hire10x
+# Repository Summary: Mothilal-M/Mothilal-M
 
 ## Overview
 This is a **personal GitHub profile repository** for Mothilal, a Backend Developer and Cloud Enthusiast. This special repository type automatically displays its README content on the user's GitHub profile page, serving as a dynamic digital portfolio and professional showcase.

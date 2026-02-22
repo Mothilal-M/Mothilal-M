@@ -4,7 +4,7 @@
 </a>
 
 <!-- <p align="center">
-<a href="https://github.com/Mothilal-hire10x">
+<a href="https://github.com/Mothilal-M">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F7FF&background=00000000&center=true&vCenter=true&width=650&height=70&lines=Hi+there%2C+I'm+Mothilal!+%F0%9F%91%8B;Software+Engineer+%40+10XScale.ai+%F0%9F%9A%80;Backend+Developer+%7C+Python+%7C+FastAPI+%E2%9A%A1;Cloud+Architect+%7C+GCP+Expert+%E2%98%81%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%92%BB;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 </p> -->
@@ -147,8 +147,8 @@ me = SoftwareEngineer()
 
 <div align="center">
   
-<!-- ![GitHub Snake Light](https://github.com/Mothilal-hire10x/Mothilal-hire10x/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
-![GitHub Snake Dark](https://github.com/Mothilal-hire10x/Mothilal-hire10x/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<!-- ![GitHub Snake Light](https://github.com/Mothilal-M/Mothilal-M/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
+![GitHub Snake Dark](https://github.com/Mothilal-M/Mothilal-M/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
@@ -158,20 +158,20 @@ me = SoftwareEngineer()
 ## 📊 GitHub Analytics
 
 <div align="center">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mothilal-hire10x&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"><br>
-    <!-- <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Mothilal-hire10x&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Mothilal's%20Most%20Used%20Languages&title_color=00F7FF&text_color=70a5fd"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Mothilal-hire10x&show_icons=true&line_height=30&rank_icon=github&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=70a5fd"><br> -->
-    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mothilal-hire10x&theme=tokyonight&exclude={}" width="33%">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mothilal-hire10x&theme=tokyonight&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mothilal-hire10x&theme=tokyonight&utcOffset=+5" width="33%"><br> -->
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mothilal-M&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"><br>
+    <!-- <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Mothilal-M&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Mothilal's%20Most%20Used%20Languages&title_color=00F7FF&text_color=70a5fd"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Mothilal-M&show_icons=true&line_height=30&rank_icon=github&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=70a5fd"><br> -->
+    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mothilal-M&theme=tokyonight&exclude={}" width="33%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mothilal-M&theme=tokyonight&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mothilal-M&theme=tokyonight&utcOffset=+5" width="33%"><br> -->
 </div>
 
 <div align="center">
   
-[![Mothilal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mothilal-hire10x&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=false)](https://github.com/Mothilal-hire10x)
+[![Mothilal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mothilal-M&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=false)](https://github.com/Mothilal-M)
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mothilal-hire10x&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mothilal-M&theme=tokyonight" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -180,7 +180,7 @@ me = SoftwareEngineer()
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mothilal-hire10x&theme=tokyonight&no-frame=true&margin-w=15&margin-h=10&column=7&no-bg=true)](https://github.com/Mothilal-hire10x)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mothilal-M&theme=tokyonight&no-frame=true&margin-w=15&margin-h=10&column=7&no-bg=true)](https://github.com/Mothilal-M)
 
 </div>
 <!-- 
@@ -247,7 +247,7 @@ Streamlining educational institution admission processes
   
   ### 💫 "Code is poetry written in logic" 💫
   
-  <img src="https://komarev.com/ghpvc/?username=Mothilal-hire10x&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mothilal-M&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
 </div> -->
