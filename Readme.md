@@ -253,7 +253,7 @@ Streamlining educational institution admission processes
 </div> -->
 
 ---
-
+<iframe src="https://github.com/sponsors/Mothilal-M/button" title="Sponsor Mothilal-M" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
