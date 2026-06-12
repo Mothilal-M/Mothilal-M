@@ -1,139 +1,259 @@
-<div align="center">
-  <a href="https://mothilal.dev"><img src="assets/hero.svg" alt="Mothilal M — software engineer @ 10xscale.ai — systems that stay reliable as they grow." width="100%"></a>
-</div>
+<!-- <iframe src="https://github.com/sponsors/Mothilal-M/card" title="Sponsor Mothilal-M" height="225" width="600" style="border: 0;"></iframe> -->
+<a href="https://mothilal.xyz">
+ <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Mothilal%20M&fontSize=80&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20%40%2010XScale.ai&descAlignY=55&descSize=25" width="100%">    
+</a>
+
+<!-- <p align="center">
+<a href="https://github.com/Mothilal-M">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F7FF&background=00000000&center=true&vCenter=true&width=650&height=70&lines=Hi+there%2C+I'm+Mothilal!+%F0%9F%91%8B;Software+Engineer+%40+10XScale.ai+%F0%9F%9A%80;Backend+Developer+%7C+Python+%7C+FastAPI+%E2%9A%A1;Cloud+Architect+%7C+GCP+Expert+%E2%98%81%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%92%BB;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
+</p> -->
 
 <p align="center">
-  <a href="https://mothilal.dev"><img src="https://img.shields.io/badge/mothilal.dev-D6FF3F?style=for-the-badge&logo=googlechrome&logoColor=0F0E0C" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/mothilal-m-04803a227"><img src="https://img.shields.io/badge/LinkedIn-171511?style=for-the-badge&logo=linkedin&logoColor=D6FF3F" alt="LinkedIn"></a>
-  <a href="mailto:mothilal044@gmail.com"><img src="https://img.shields.io/badge/Email-171511?style=for-the-badge&logo=gmail&logoColor=D6FF3F" alt="Email"></a>
-  <a href="https://github.com/sponsors/Mothilal-M"><img src="https://img.shields.io/badge/Sponsor-171511?style=for-the-badge&logo=githubsponsors&logoColor=D6FF3F" alt="Sponsor"></a>
-  <a href="https://www.instagram.com/mothilalzzh_sphinx_007"><img src="https://img.shields.io/badge/Instagram-171511?style=for-the-badge&logo=instagram&logoColor=D6FF3F" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/mothilal-m-04803a227"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://mothilal.xyz"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+    <a href="mailto:mothilal044@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.instagram.com/mothilalzzh_sphinx_007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-## `[01]` — about
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-I build reliable backend systems with **Python, FastAPI, and GCP** at [10xscale.ai](https://10xscale.ai) — production-ready APIs, performance improvements, and scalable cloud workflows for fast-moving product teams.
+<div align="center">
 
-> APIs that don't flake. Deploys that don't drift. Systems that scale without drama.
-
-```console
-$ whoami
-mothilal m — software engineer @ 10xscale.ai · hyderabad / remote
-
-$ cat stack.txt
-backend    python · fastapi · postgresql · mysql · redis
-cloud      gcp · cloud run · docker · ci/cd
-ai         langgraph · llm tooling · agentic systems
-frontend   typescript · react
-
-$ uptime
-4,600+ contributions in the last 365 days · 320-day streak · ships daily
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succeed=try() ) )|     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
-<img src="assets/divider.svg" width="100%" alt="">
+</div> -->
 
-## `[02]` — selected work
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<table>
-  <tr>
-    <td><a href="https://github.com/Mothilal-M/typesense-ui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-M&repo=typesense-ui&bg_color=0F0E0C&title_color=D6FF3F&text_color=F2EFE8&icon_color=A39D92&hide_border=true" alt="typesense-ui — AI-enhanced dashboard for managing Typesense clusters"></a></td>
-    <td><a href="https://github.com/Mothilal-M/Kuber"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-M&repo=Kuber&bg_color=0F0E0C&title_color=D6FF3F&text_color=F2EFE8&icon_color=A39D92&hide_border=true" alt="Kuber — AI-powered personal finance OS, built in public"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mothilal-M/agentic-browser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-M&repo=agentic-browser&bg_color=0F0E0C&title_color=D6FF3F&text_color=F2EFE8&icon_color=A39D92&hide_border=true" alt="agentic-browser — a desktop browser an LLM agent can see and drive"></a></td>
-    <td><a href="https://github.com/Mothilal-M/Chaturanga"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-M&repo=Chaturanga&bg_color=0F0E0C&title_color=D6FF3F&text_color=F2EFE8&icon_color=A39D92&hide_border=true" alt="Chaturanga — AI-powered chess learning app"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mothilal-M/business-voice-diary"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-M&repo=business-voice-diary&bg_color=0F0E0C&title_color=D6FF3F&text_color=F2EFE8&icon_color=A39D92&hide_border=true" alt="business-voice-diary — AI WhatsApp voice diary for Tamil small-business owners"></a></td>
-    <td><a href="https://github.com/Mothilal-M/10XMind-Play"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-M&repo=10XMind-Play&bg_color=0F0E0C&title_color=D6FF3F&text_color=F2EFE8&icon_color=A39D92&hide_border=true" alt="10XMind-Play — cognitive training platform, live at 10xmindplay.mothilal.xyz"></a></td>
-  </tr>
-</table>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<!--
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-## `[03]` — chess · play against the internet
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm building [Chaturanga](https://github.com/Mothilal-M/Chaturanga), an AI chess coach — so naturally my profile has a live board. **Anyone can play the next move.** Click a move below; it opens a pre-filled GitHub issue — just press *Submit* and a bot makes your move, updates this board, and credits you. One continuous game, the whole internet vs itself.
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Mothilal M"
+        self.role = "Software Engineer @ 10XScale.ai"
+        self.location = "Dharmapuri, Tamil Nadu, India 🇮🇳"
+        self.education = "B.Sc Computer Science (2021-2024)"
+        self.university = "Government Arts College, Coimbatore"
+        
+    def current_work(self):
+        return {
+            "company": "10XScale.ai",
+            "position": "Software Engineer",
+            "location": "Hyderabad",
+            "focus": ["Backend Systems", "Cloud Infrastructure", 
+                     "Microservices", "Python & FastAPI"]
+        }
+    
+    def skills(self):
+        return {
+            "backend": ["Python", "FastAPI", "PHP", "MySQL", "PostgreSQL"],
+            "frontend": ["JavaScript", "TypeScript", "jQuery", "HTML5", "CSS3"],
+            "cloud": ["Google Cloud Platform", "Cloud Run", "Cloud SQL", "Docker"],
+            "ai_tools": ["GitHub Copilot", "LangGraph", "AI-assisted Coding"],
+            "data": ["Redis", "ETL Pipelines", "Data Integration"],
+            "tools": ["Git", "CI/CD", "Postman", "VS Code"]
+        }
+    
+    def current_learning(self):
+        return ["LangGraph", "Advanced Microservices", 
+                "Database Scaling", "AI Integration"]
+    
+    def hobbies(self):
+        return ["Chess ♟️", "Reading 📚", "Gaming 🎮", 
+                "Tech Exploration 🔍", "Problem Solving 🧩"]
+    
+    def fun_fact(self):
+        return "I can debug code faster than I can decide what to have for dinner! 🍕"
 
-<!--CHESS:START-->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mothilal-M/Mothilal-M/main/chess/board.svg?m=1-0" width="420">
-
-<sub>game #1 · move 1 · ♙ white to play</sub>
-
-</div>
-
-**play a move** — click one, then just press <em>Submit new issue</em>; the bot does the rest:
-
-**♙** [a3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Ca2a3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Aa3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [a4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Ca2a4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Aa4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [b3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cb2b3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ab3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [b4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cb2b4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ab4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [c3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cc2c3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ac3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [c4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cc2c4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ac4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [d3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cd2d3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ad3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [d4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cd2d4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ad4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [e3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Ce2e3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ae3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [e4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Ce2e4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ae4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [f3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cf2f3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Af3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [f4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cf2f4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Af4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [g3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cg2g3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ag3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [g4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cg2g4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ag4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [h3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Ch2h3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ah3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [h4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Ch2h4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ah4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) · **♘** [Na3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cb1a3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2ANa3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [Nc3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cb1c3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2ANc3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [Nf3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cg1f3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2ANf3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [Nh3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cg1h3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2ANh3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29)
-
-**recent moves**
-
-No moves yet — make the first move in game #1!
-
-<div align="center">
-<sub><a href="chess/games.md">hall of fame</a> · powered by a GitHub Action + python-chess — moves are real issues from real people</sub>
-</div>
-<!--CHESS:END-->
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## `[04]` — stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mothilal-M&hide_border=true&background=0F0E0C&ring=D6FF3F&fire=D6FF3F&currStreakLabel=D6FF3F&sideLabels=A39D92&dates=6E685E&currStreakNum=F2EFE8&sideNums=F2EFE8&stroke=2B2722" alt="GitHub streak stats">
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mothilal-M&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F0E0C&title_color=D6FF3F&icon_color=D6FF3F&text_color=F2EFE8&ring_color=D6FF3F" height="170" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mothilal-M&layout=compact&langs_count=8&hide_border=true&bg_color=0F0E0C&title_color=D6FF3F&text_color=F2EFE8&exclude_repo=tirreno-master" height="170" alt="Top languages">
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mothilal-M&hide_border=true&bg_color=0F0E0C&color=A39D92&line=D6FF3F&point=F2EFE8&area=true&area_color=D6FF3F&custom_title=contribution%20activity" width="100%" alt="Contribution activity graph">
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mothilal-M/Mothilal-M/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Mothilal-M/Mothilal-M/output/github-snake.svg" alt="Contribution snake" width="100%">
-  </picture>
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## `[05]` — live
-
-### `$` recent activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### `$` this week in code
-
-<!--START_SECTION:waka-->
-
-```text
-wakatime is warming up — stats appear here once tracking starts.
+me = SoftwareEngineer()
 ```
 
-<!--END_SECTION:waka-->
-
-<!-- SPOTIFY: one-time setup — log in at https://spotify-github-profile.kittinanx.com,
-     then replace this comment with the generated markdown image link. -->
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## `[06]` — connect
-
-**open to** backend & platform engineering roles · freelance projects
-
-[mothilal.dev](https://mothilal.dev) · [linkedin](https://www.linkedin.com/in/mothilal-m-04803a227) · [mothilal044@gmail.com](mailto:mothilal044@gmail.com) · [sponsor my work](https://github.com/sponsors/Mothilal-M)
-
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
+<!-- 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
 
 <div align="center">
-  <img src="assets/divider.svg" width="100%" alt="">
-  <sub><code>© mothilal m — keep it simple, make it work, then make it better.</code></sub>
+
+### 💻 Backend Development
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![API Development](https://img.shields.io/badge/API_Development-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+### 🎨 Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Data & Caching
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Data Integration](https://img.shields.io/badge/Data_Integration-00758F?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 🤖 AI & Modern Tools
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![AI Assisted Coding](https://img.shields.io/badge/AI_Assisted_Coding-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+
+### 💼 Professional Skills
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Adaptability](https://img.shields.io/badge/Adaptability-FF4088?style=for-the-badge&logo=atom&logoColor=white)
+
+</div> -->
+<!-- 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
+
+<div align="center">
+
+<!-- ![GitHub Snake Light](https://github.com/Mothilal-M/Mothilal-M/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
+![GitHub Snake Dark](https://github.com/Mothilal-M/Mothilal-M/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mothilal-M&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"><br>
+    <!-- <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Mothilal-M&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Mothilal's%20Most%20Used%20Languages&title_color=00F7FF&text_color=70a5fd"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Mothilal-M&show_icons=true&line_height=30&rank_icon=github&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=70a5fd"><br> -->
+    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mothilal-M&theme=tokyonight&exclude={}" width="33%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mothilal-M&theme=tokyonight&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mothilal-M&theme=tokyonight&utcOffset=+5" width="33%"><br> -->
+</div>
+
+<div align="center">
+
+[![Mothilal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mothilal-M&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=false)](https://github.com/Mothilal-M)
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mothilal-M&theme=tokyonight" width="100%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## � GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mothilal-M&theme=tokyonight&no-frame=true&margin-w=15&margin-h=10&column=7&no-bg=true)](https://github.com/Mothilal-M)
+
+</div>
+<!-- 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
+
+<!-- ## 🔥 Featured Projects
+
+<div align="center">
+
+### 🎯 10xMindPlay - Cognitive Training Platform
+<a href="https://10xmindplay.mothilal.xyz/">
+<img src="https://img.shields.io/badge/Live-10xmindplay.mothilal.xyz-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="10xMindPlay Live">
+</a>
+
+**AI-powered cognitive training platform** | TypeScript, Modern UI, Web App
+
+Comprehensive platform for memory, attention & cognitive flexibility training
+
+---
+
+### 💼 College Admission Seat Matrix
+**Automated seat distribution system** | PHP, MySQL, JavaScript, Web Design
+
+Streamlining educational institution admission processes
+
+</div> -->
+
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
+
+<!-- ## 🎯 2025-2026 Goals
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&lines=✨+Scale+Microservices+on+GCP;🚀+Master+Advanced+LangGraph+%26+AI+Tools;📈+Build+Enterprise-Grade+ETL+Pipelines;🎯+Optimize+Database+Performance+%26+Scaling;🌟+Contribute+to+AI+Open+Source;💼+Lead+Cross-Functional+Tech+Teams" alt="Goals" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
+
+
+<!-- ## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div> -->
+
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
+
+<!-- ## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_mothilal.xyz-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mothilal.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mothilal-m-04803a227)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mothilal044@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mothilalzzh_sphinx_007)
+
+</div> -->
+
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+  
+  ### 💫 "Code is poetry written in logic" 💫
+  
+  <img src="https://komarev.com/ghpvc/?username=Mothilal-M&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+</div> -->
+
+---
+<!-- <iframe src="https://github.com/sponsors/Mothilal-M/button" title="Sponsor Mothilal-M" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe> -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
