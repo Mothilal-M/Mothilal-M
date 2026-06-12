@@ -37,7 +37,7 @@ $ uptime
 <table>
   <tr>
     <td><a href="https://github.com/Mothilal-M/typesense-ui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-M&repo=typesense-ui&bg_color=0F0E0C&title_color=D6FF3F&text_color=F2EFE8&icon_color=A39D92&hide_border=true" alt="typesense-ui — AI-enhanced dashboard for managing Typesense clusters"></a></td>
-    <td><a href="https://github.com/Mothilal-M/Kuber"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-M&repo=Kuber&bg_color=0F0E0C&title_color=D6FF3F&text_color=F2EFE8&icon_color=A39D92&hide_border=true" alt="Kuber — personal finance app, 300+ days built in public"></a></td>
+    <td><a href="https://github.com/Mothilal-M/Kuber"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-M&repo=Kuber&bg_color=0F0E0C&title_color=D6FF3F&text_color=F2EFE8&icon_color=A39D92&hide_border=true" alt="Kuber — AI-powered personal finance OS, built in public"></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Mothilal-M/agentic-browser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-M&repo=agentic-browser&bg_color=0F0E0C&title_color=D6FF3F&text_color=F2EFE8&icon_color=A39D92&hide_border=true" alt="agentic-browser — a desktop browser an LLM agent can see and drive"></a></td>
