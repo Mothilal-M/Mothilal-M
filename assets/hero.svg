@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 320" font-family="'JetBrains Mono','Fira Code',ui-monospace,'Cascadia Code',Consolas,monospace">
+  <style>
+    .ln { opacity: 0; animation: show .01s steps(1) forwards; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <!-- terminal window -->
+  <rect x="1.5" y="1.5" width="1097" height="317" rx="14" fill="#0F0E0C" stroke="#2B2722" stroke-width="2"/>
+
+  <!-- title bar -->
+  <path d="M2 15 Q2 2 15 2 H1085 Q1098 2 1098 15 V45 H2 Z" fill="#171511"/>
+  <line x1="2" y1="45.5" x2="1098" y2="45.5" stroke="#2B2722" stroke-width="1"/>
+  <circle cx="34" cy="24" r="7" fill="#2B2722"/>
+  <circle cx="58" cy="24" r="7" fill="#2B2722"/>
+  <circle cx="82" cy="24" r="7" fill="#D6FF3F"/>
+  <text x="550" y="29" text-anchor="middle" font-size="14" fill="#A39D92">mothilal@10xscale — ~/profile</text>
+
+  <!-- $ whoami -->
+  <g class="ln" style="animation-delay:.4s">
+    <text x="56" y="92" font-size="17"><tspan fill="#D6FF3F">$</tspan><tspan fill="#A39D92" dx="12">whoami</tspan></text>
+  </g>
+
+  <!-- name -->
+  <g class="ln" style="animation-delay:.9s">
+    <text x="56" y="148" font-size="46" font-weight="700" letter-spacing="2" fill="#F2EFE8">MOTHILAL M</text>
+  </g>
+  <g class="ln" style="animation-delay:1.4s">
+    <text x="56" y="184" font-size="19" fill="#D6FF3F">// software engineer @ 10xscale.ai</text>
+  </g>
+
+  <!-- $ cat tagline.txt -->
+  <g class="ln" style="animation-delay:1.9s">
+    <text x="56" y="234" font-size="17"><tspan fill="#D6FF3F">$</tspan><tspan fill="#A39D92" dx="12">cat tagline.txt</tspan></text>
+  </g>
+  <g class="ln" style="animation-delay:2.4s">
+    <text x="56" y="270" font-size="18" fill="#F2EFE8">systems that stay reliable as they grow.</text>
+  </g>
+
+  <!-- blinking cursor -->
+  <rect x="500" y="254" width="11" height="20" fill="#D6FF3F" class="ln"
+        style="animation: show .01s steps(1) 2.6s forwards, blink 1.1s steps(1) 3.1s infinite;"/>
+
+  <!-- decorative knight, bottom right -->
+  <g class="ln" style="animation-delay:2.9s">
+    <text x="1044" y="282" text-anchor="middle" font-size="64" fill="#171511" stroke="#2B2722" stroke-width="1">♞</text>
+    <text x="1044" y="302" text-anchor="middle" font-size="12" fill="#A39D92">[03] — chess</text>
+  </g>
+</svg>

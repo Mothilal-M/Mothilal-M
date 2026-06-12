@@ -1,0 +1,28 @@
+name: wakatime stats
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      # The job is a no-op until the WAKATIME_API_KEY repo secret is added,
+      # so the workflow stays green instead of failing while setup is pending.
+      - name: Check for API key
+        id: key
+        run: echo "present=${{ secrets.WAKATIME_API_KEY != '' }}" >> "$GITHUB_OUTPUT"
+
+      - name: Update coding stats
+        if: steps.key.outputs.present == 'true'
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: false
+          BLOCKS: "░▒▓█"
+          COMMIT_MESSAGE: "chore: update wakatime stats"

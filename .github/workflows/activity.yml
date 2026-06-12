@@ -1,0 +1,23 @@
+name: recent activity
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # twice a day, keeps bot-commit noise low
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update activity section
+        uses: jamesgeorge007/github-activity-readme@master
+        with:
+          COMMIT_MSG: "chore: update recent activity"
+          MAX_LINES: 6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
